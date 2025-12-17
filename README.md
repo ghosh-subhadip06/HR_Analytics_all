@@ -1,3 +1,13 @@
+# HR Analysis:
+# Introduction:<br>
+The HR Analytics project involves analyzing employee-related data to gain insights into workforce behavior and performance. It helps organizations understand factors affecting hiring, productivity, and employee retention, enabling better HR decisions and improved overall efficiency.
+# Purpose:<br>
+This project aims to identify the reasons behind the high employee attrition rate of approximately 50%. Using data visualization tools such as Power BI and Tableau, the analysis highlights the key factors contributing to attrition across different departments and genders, helping organization understand and address the root causes effectively. 
+
+# Features:<br>
+
+
+
 # HR_Analytics_Excel_Report:
 <img width="874" height="410" alt="HR_Analytics_Excel_Report" src="https://github.com/user-attachments/assets/10780034-ad28-4f80-95f8-67287c6a7ccb" />
 
