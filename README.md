@@ -1,8 +1,9 @@
-# HR Analysis:
+# HR Analysis: Employee Retention
+:
 # Introduction:<br>
 The HR Analytics project involves analyzing employee-related data to gain insights into workforce behavior and performance. It helps organizations understand factors affecting hiring, productivity, and employee retention, enabling better HR decisions and improved overall efficiency.
 # Purpose:<br>
-This project aims to identify the reasons behind the high employee attrition rate of approximately 50%. Using data visualization tools such as Power BI and Tableau, the analysis highlights the key factors contributing to attrition across different departments and genders, helping organization understand and address the root causes effectively. 
+This project focuses on employee retention by analyzing the key reasons behind a high employee attrition rate of approximately 50%. Using data visualization tools such as Power BI and Tableau, the analysis identifies and highlights the major factors contributing to attrition across departments, educational qualification of employees and their gender groups. The insights generated from this analysis help organizations better understand attrition patterns and support data-driven strategies to address the root causes and improve employee retention. 
 
 # Features:<br>
 ⚪ Average Attrition rate for all departments, gender and employees with different educational background.<br>
